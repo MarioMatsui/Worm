@@ -5,7 +5,7 @@ A game made with html5, css3 and JS.
 ## install
 
 ```Shell
-git clone
+git clone https://github.com/MarioMatsui/Worm.git
 ```
 
 ## Start
